@@ -1,9 +1,0 @@
-<html>
-<head>Currency</head>
-<body>
-<h1>British</h1>
-<p>Convert British Pound to Indian Rupee ; 25 GBP, 2,486.01 INR ; 50 GBP, 4,972.01 INR ; 100 GBP, 9,944.03 INR ; 500 GBP, 49,720.1 INR.
-‎5000 GBP · ‎500 GBP · ‎10 GBP · ‎1 INR to GBP</p>
-<h3>lochan</h3>
-</body>
-</html>
